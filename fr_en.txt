@@ -1,0 +1,6 @@
+Ciel:Sky
+Terre:Earth
+Ville:City
+Voiture:Car
+Rouge:Red
+Mer:Sea
