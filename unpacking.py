@@ -1,6 +1,4 @@
 
-data=(45,67,78,909,10)
-print(data[0], data[-1])
 
 data=(45,10)
 print(data[0], data[-1])
